@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Amrendra Singh Rajpoot " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrendra" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/amrendra-singh-rajpoot-809a34323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrendra" height="30" width="40" /></a>
 <a href="https://snapchat.com/amrendraj1428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="amrendraj1428" height="30" width="40" /></a>
 <a href="https://pinterest.com/@amrendrasinghrajpoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="@pysolanki" height="30" width="40" /></a>
 </p>
